@@ -1,0 +1,3 @@
+[submodule "netlink-devices"]
+	path = netlink-devices
+	url = https://github.com/kfarnsworth/netlink-devices.git
